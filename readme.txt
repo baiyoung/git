@@ -6,3 +6,7 @@ name: 'xiaomin'
 
 //three add
 age: 20
+
+// four add
+sex:'men'
+
